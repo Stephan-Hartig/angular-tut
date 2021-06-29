@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running test RESTful API
 
-Run `npm run server` to run the mock RESTful API server.
+Run `npm run server` to run the mock RESTful API server. It runs on port 3000 by default.
 
 ## Running unit tests
 
