@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "July 1st at 3:40pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Lunch with Greg",
+      "day": "July 2nd at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Surgery",
+      "day": "July 3rd at 8am",
+      "reminder": false
+    },
+    {
+      "text": "Foobar",
+      "day": "June 3rd",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
