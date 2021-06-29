@@ -1,6 +1,6 @@
 # AngularTut
 
-This is me following Traversy Media's [amazing tutorial](https://youtu.be/3dHNOWTI7H8) on YouTube. I'll probably refactor some of my previous projects to use Angular because of how nice it is!
+This is me following Traversy Media's [amazing tutorial](https://youtu.be/3dHNOWTI7H8) on YouTube. I'll probably refactor some of my previous projects to use Angular because of how powerful it is and how nicely it streamlines the development process!
 
 ## Development server
 
