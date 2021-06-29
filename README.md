@@ -1,6 +1,6 @@
 # AngularTut
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+This is me following Traversy Media's [amazing tutorial](https://youtu.be/3dHNOWTI7H8) on YouTube. I'll probably refactor some of my previous projects to use Angular because of how nice it is!
 
 ## Development server
 
@@ -14,6 +14,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running test RESTful API
+
+Run `npm run server` to run the mock RESTful API server.
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
@@ -21,6 +25,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Versioning
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
 ## Further help
 
